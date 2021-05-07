@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeuApp2Div3</string>
+    <string name="hint_mensagemEditText">Digite a sua mensagem</string>
+    <string name="txt_botao">Enviar</string>
+</resources>
